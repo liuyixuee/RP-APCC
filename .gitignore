@@ -1,0 +1,11 @@
+# editor
+.vscode
+
+# building temporal files
+build
+.waf*
+.lock*
+*.pyc
+
+# result
+result*
